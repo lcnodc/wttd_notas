@@ -3,7 +3,7 @@
 
 """Example de módulo em python
 
-Este exemplo define um módulo com uuma função que pode ser importada em um
+Este exemplo define um módulo com uma função que pode ser importada em um
 programa python.
 
 """
